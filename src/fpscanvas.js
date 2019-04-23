@@ -30,7 +30,7 @@ var FpsCanvas = (() => {
     a[E]("width", "128");
     a[E]("height", "64");
     b[E]("id", "fpsCanvas--b");
-    b[E]("href", "http://example.com");
+    b[E]("href", "https://github.com/creatively-stupid/FPScanvas
     b[E]("target", "_blank");
     b[N](a);
     A[D].insertBefore(b, A[D].firstChild);
